@@ -1,0 +1,19 @@
+{
+  "name": "live-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api-proxy.js",
+  "scripts": {
+    "test": "node scripts/sample-check.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.30.0"
+  }
+}
